@@ -3172,8 +3172,8 @@ tar@^2.0.0:
     inherits "2"
 
 "tempusdominus-core@git://github.com/Gisdev2048/core.git":
-  version "5.0.5"
-  resolved "git://github.com/Gisdev2048/core.git#747e5491f809a8900edbf846833faf1dd84f9b13"
+  version "5.0.6"
+  resolved "git://github.com/Gisdev2048/core.git#ca45ecda7ce0609e8c35a1741d4903029a780416"
   dependencies:
     jquery "^3.0"
     moment "^2.22.2"

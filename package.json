@@ -16,9 +16,9 @@
   "peerDependencies": {
     "bootstrap": ">=4.1.2",
     "jquery": "^3.0",
-    "popper.js": "^1.14.3",
     "moment": "^2.17",
     "moment-timezone": "^0.5.11",
+    "popper.js": "^1.14.3",
     "tempusdominus-core": "git://github.com/Gisdev2048/core.git"
   },
   "scripts": {
@@ -69,7 +69,7 @@
     "type": "git",
     "url": "https://github.com/tempusdominus/bootstrap-4.git"
   },
-  "version": "5.1.4",
+  "version": "5.1.5",
   "files": [
     "build",
     "src/js/**/*.js",
